@@ -1,2 +1,2 @@
 # Grammar-Checker
-A little grammar checker that learning me how to works on arrays 
+A little grammar checker that learning me how to works on arrays with iterators methods.
